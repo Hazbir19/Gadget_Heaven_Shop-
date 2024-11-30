@@ -1,0 +1,82 @@
+[
+    {
+        "id": "R001",
+        "reviewer_name": "John Doe",
+        "email": "johndoe@example.com",
+        "rating": 5,
+        "review_text": "Absolutely love the iPhone 14 Pro! The camera quality is stunning, and the battery lasts all day.",
+        "reviewer_image": "https://i.ibb.co.com/r2XVmJ6/Teacher-1.jpg"
+    },
+    {
+        "id": "R002",
+        "reviewer_name": "Sarah Johnson",
+        "email": "sarahjohnson@example.com",
+        "rating": 4,
+        "review_text": "The Samsung Galaxy S21 is worth every penny! The display is vibrant, and the performance is super fast.",
+        "reviewer_image": "https://i.ibb.co.com/nk2YzRj/Teacher-2.jpg"
+    },
+    {
+        "id": "R003",
+        "reviewer_name": "Michael Brown",
+        "email": "michaelbrown@example.com",
+        "rating": 5,
+        "review_text": "Google Pixel 6 is fantastic, especially the camera! Perfect for capturing memories in high quality.",
+        "reviewer_image": "https://i.ibb.co.com/7y9jpL6/Teacher-3.webp"
+    },
+    {
+        "id": "R004",
+        "reviewer_name": "Emily Smith",
+        "email": "emilysmith@example.com",
+        "rating": 4,
+        "review_text": "OnePlus Nord 2 exceeded my expectations. Great features at an affordable price!",
+        "reviewer_image": "https://i.ibb.co.com/Wvmy5gV/Teacher-4.jpg"
+    },
+    {
+        "id": "R005",
+        "reviewer_name": "David Lee",
+        "email": "davidlee@example.com",
+        "rating": 5,
+        "review_text": "Xiaomi Mi 11 is amazing, especially the high-resolution camera. It’s the best phone I've had.",
+        "reviewer_image": "https://i.ibb.co.com/xfDrfYk/Teacher-5.jpg"
+    },
+    {
+        "id": "R006",
+        "reviewer_name": "Sophia Garcia",
+        "email": "sophiagarcia@example.com",
+        "rating": 4,
+        "review_text": "The Sony Xperia 5 III is compact but powerful! Perfect for photography enthusiasts like me.",
+        "reviewer_image": "https://i.ibb.co.com/WVwHzCc/Teacher-6.jpg"
+    },
+    {
+        "id": "R007",
+        "reviewer_name": "William Martinez",
+        "email": "williammartinez@example.com",
+        "rating": 5,
+        "review_text": "The MacBook Pro 16 is a powerhouse! Perfect for editing videos and running complex software.",
+        "reviewer_image": "https://i.ibb.co.com/bXTrKmf/Teacher-7.jpg"
+    },
+    {
+        "id": "R008",
+        "reviewer_name": "Olivia Thompson",
+        "email": "oliviathompson@example.com",
+        "rating": 4,
+        "review_text": "Dell XPS 13 is sleek and powerful, just what I needed for work and travel.",
+        "reviewer_image": "https://i.ibb.co.com/rc7jjpF/Teacher-8.jpg"
+    },
+    {
+        "id": "R009",
+        "reviewer_name": "Daniel Rodriguez",
+        "email": "danielrodriguez@example.com",
+        "rating": 5,
+        "review_text": "Apple AirPods Pro offer incredible sound quality and noise cancellation, ideal for music lovers.",
+        "reviewer_image": "https://i.ibb.co.com/QNHC7H1/Teacher-9.jpg"
+    },
+    {
+        "id": "R010",
+        "reviewer_name": "Liam Hernandez",
+        "email": "liamhernandez@example.com",
+        "rating": 4,
+        "review_text": "Samsung Galaxy Buds Pro fit perfectly and sound amazing. Great value for the price.",
+        "reviewer_image": "https://i.ibb.co.com/zRnjWsp/Teacher-10.jpg"
+    }
+]

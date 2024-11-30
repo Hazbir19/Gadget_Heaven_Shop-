@@ -1,0 +1,25 @@
+[
+    {
+        "id": "1",
+        "category": "Smartphones"
+        
+    },    
+    {
+        "id": "2",
+        "product_title": "Apple MacBook Pro 16",
+        "category": "Laptops"
+       
+    },
+    {
+        "id": "3",
+        "product_title": "Apple MacBook Pro 16",
+        "category": "AirPods"
+       
+    },
+    {
+        "id": "4",
+        "category": "Smartwatchs"
+        
+    }
+  
+]
